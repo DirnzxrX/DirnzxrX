@@ -1,4 +1,4 @@
-# Hi there, I'm Yang Mulia Dirzz 🤴
+# Hi there, I'm Diro 🤴
 
 ### 🚀 Web & Mobile Developer | Tech Enthusiast
 
