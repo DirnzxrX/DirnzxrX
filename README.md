@@ -37,6 +37,4 @@ Welcome to my digital playground! I am a passionate developer dedicated to turni
 ### 📫 Let's Connect!
 
 * **Email:** [Email](mailto:andirodwitama@gmail.com)
-* **Portfolio:** [Web]([https://your-website.com](https://sites.google.com/view/andiro-r-d/beranda?authuser=0&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnGHD6lEdChk17XKXIPFrVU6H_r4LFfZnzKVTCVhggfWG0QVN6fA0w5CXDObU_aem_FdMTeSNPYqyJLwOHbEcIuw))
-
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
