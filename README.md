@@ -1,4 +1,4 @@
-# Hi there, I'm Diro 🤴
+# Hi there, I'm Yang Mulia Dirzz 🤴
 
 ### 🚀 Web & Mobile Developer | Tech Enthusiast
 
@@ -15,26 +15,28 @@ Welcome to my digital playground! I am a passionate developer dedicated to turni
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**
-* **Mobile:** Flutter
-* **Web:** React.js, Laravel
-* **Core:** HTML, CSS, JavaScript, PHP
+**Development** <br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Design & Prototyping:**
-* Figma
+**Design & Prototyping** <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Dirzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
+**Tools & Database** <br>
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 📫 Let's Connect!
 
 * **Email:** [Email](mailto:andirodwitama@gmail.com)
+
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
