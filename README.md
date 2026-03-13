@@ -35,8 +35,4 @@ Welcome to my digital playground! I am a passionate developer dedicated to turni
 
 ---
 
-### 📫 Let's Connect!
-
-* **Email:** [Email](mailto:andirodwitama@gmail.com)
-
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
